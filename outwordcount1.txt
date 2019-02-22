@@ -1,0 +1,20 @@
+Alvin Huang 1115 HW: Topic 8 Program: Word Count
+
+
+The big brown dog ate some big apples with the brown big rat and the brown big cat ate some big fish with the big brown mouse. 
+
+
+
+and	1
+apples	1
+ate	2
+big	6
+brown	4
+cat	1
+dog	1
+fish	1
+mouse 	1
+rat	1
+some	2
+The	4
+with	2
